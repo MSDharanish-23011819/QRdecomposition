@@ -50,7 +50,7 @@ a = np.array(eval(input()))
 QR_Decomposition(a)
 ```
 
-## Output:
+## Output :
 
 ![output](/output.png)
 
