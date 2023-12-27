@@ -52,7 +52,7 @@ QR_Decomposition(a)
 
 ## Output:
 
-![Screenshot 2023-12-27 205216](https://github.com/MSDharanish-23011819/QRdecomposition/assets/147139454/93951d8f-0c0e-4ee3-a1c0-666f896a80f9)
+![output](/output.png)
 
 
 
